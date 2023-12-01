@@ -14,9 +14,12 @@ I am always eager to face new challenges. With a desire to continuously expand m
 
 Feel free to contact me with any questions, suggestions or feedback. Your feedback is of great importance to me. I am here for good collaboration and innovative projects.
 
-
 ###
 
+<p align="left">I'm  Muhammed Alperen from Türkiye<br><br>- 🔭 I’m working as a Software Test Specialist<br>- 📚 I'm currently learning JMeter and Cucumber <br>- ⚡ In my free time I read book and Travel.</p>
+
+###
+<h3 align="center"> 🌐 Social Media </h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/muhammedalperenyilmaz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -34,16 +37,6 @@ Feel free to contact me with any questions, suggestions or feedback. Your feedba
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammedAlperenYilmaz.MuhammedAlperenYilmaz&"  />
 </div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm  Muhammed Alperen from Türkiye<br><br>- 🔭 I’m working as a Software Test Specialist<br>- 📚 I'm currently learning JMeter and Cucumber <br>- ⚡ In my free time I read book and Travel.</p>
-
-###
 
 <h3 align="center">🛠 Language and tools</h3>
 
