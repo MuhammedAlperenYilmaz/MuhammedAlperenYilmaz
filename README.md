@@ -10,16 +10,13 @@ Feel free to contact me with any questions, suggestions or feedback. Your feedba
 
 ###
 
-<p align="left">I'm  Muhammed Alperen from Türkiye<br><br>- 🔭 I’m working as a Software Test Specialist<br>- 📚 I'm currently learning JMeter and Cucumber <br>- ⚡ In my free time I read book and Travel.</p>
+<p align="left">- 🔭 I’m working as a Software Test Specialist<br>- 📚 I'm currently learning JMeter and Cucumber <br>- ⚡ In my free time I read book and Travel.</p>
 
 ###
 <h2 align="left"> 🌐 Social Media </h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/muhammedalperenyilmaz/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="alprnylmzz@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="https://medium.com/@muhammedalperenyilmaz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
@@ -32,7 +29,7 @@ Feel free to contact me with any questions, suggestions or feedback. Your feedba
   <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammedAlperenYilmaz.MuhammedAlperenYilmaz&"  />
 </div>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
