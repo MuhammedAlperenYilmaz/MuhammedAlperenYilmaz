@@ -25,9 +25,6 @@ Feel free to contact me with any questions, suggestions or feedback. Your feedba
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MuhammedAlperenYilmaz.MuhammedAlperenYilmaz&"  />
-</div>
 
 <h2 align="left">🛠 Language and tools</h2>
 
