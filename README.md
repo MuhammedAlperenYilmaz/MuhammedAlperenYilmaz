@@ -77,14 +77,5 @@ Feel free to contact me with any questions, suggestions or feedback. Your feedba
   <img src="https://profile-counter.glitch.me/MuhammedAlperenYilmaz/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/MuhammedAlperenYilmaz/MuhammedAlperenYilmaz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@muhammedalperenyilmaz&theme=default" alt="Layout with last medium posts"  />
-</div>
 
 ###
