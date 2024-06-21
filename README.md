@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋 My name is Muhammed Alperen !</h1>
 
-<h1 align="left">Software Test Specialist</h1>
+<h1 align="left">Software Test Engineer</h1>
 
 Hello, I am Muhammed Alperen. My passion for software Testing shapes my goal of testing all types of applications. I work with the latest technologies such as Selenium.
 
