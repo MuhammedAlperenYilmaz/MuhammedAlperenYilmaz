@@ -1,64 +1,67 @@
-# Hi 👋 My name is Muhammed Alperen 👨‍💻 
+# Hi 👋 I'm Muhammed Alperen Yılmaz
 
+### 🧪 QA Engineer | Test Automation | API Testing | SQL | AI/LLM Testing
 
-### 🧪 QA Engineer | 🧩 Software Quality | ⚙️ Test Automation | 🤖 AI / LLM
+I'm a QA Engineer with nearly **4 years of experience** in software testing, quality assurance, and test automation.
 
-QA Engineer with **4+ years of experience** in software testing, quality assurance, and test automation across **web, mobile, and backend systems**.
-
-My work spans the full **software testing lifecycle** — from test analysis and design to execution, defect investigation, regression, and automation — with a strong focus on building **reliable, scalable, and maintainable quality processes**.
-
----
-
-## 🎯 Areas of Focus
-
-### 🧩 Software Quality
-- 📝 Test Analysis & Design  
-- ✅ Functional & Regression Testing  
-- 🔗 Integration & UAT  
-- 🔍 Exploratory Testing  
-- 🐞 Defect Analysis  
+My experience includes functional, regression, integration, API, and mobile testing, along with SQL-based data validation and testing AI-powered applications. I'm interested in building reliable software, improving test processes, and exploring how AI and Large Language Models can support software quality engineering.
 
 ---
 
-### ⚙️ Automation & Engineering
-- 🖥️ UI Test Automation  
-- 🔌 API Testing  
-- 🏗️ Test Framework Design  
-- 🔄 CI/CD-oriented Testing  
-- 🗄️ SQL & Data Validation  
+## 🎯 Core Areas
+
+- **Software Testing:** Test Analysis & Design, Functional Testing, Regression Testing, Exploratory Testing, Defect Investigation
+- **Test Automation:** UI Automation, Selenium, Cucumber, TestNG, JUnit
+- **API & Data Testing:** Postman, REST API Testing, SQL, Data Validation
+- **AI & LLM Testing:** Prompt Validation, Response Consistency, Output Evaluation, Edge-Case Testing
+- **Programming:** Java, Python; currently expanding my skills in TypeScript and Playwright
 
 ---
 
-### 🤖 AI & Software Testing
-- 🧠 LLM-assisted Testing  
-- 🧪 Test Case Generation & Evaluation  
-- ⚠️ LLM Reliability & Hallucination Analysis  
-- 📊 Embedding Model Evaluation  
-- 🔐 Security Risks in AI-assisted Testing  
+## 🛠️ Tools & Technologies
+
+`Java` `SQL` `Selenium` `Cucumber` `TestNG` `JUnit` `Maven` `Postman` `Jira`  `Python` `Playwright` `TypeScript`
 
 ---
 
-## 🔬 Research
+## 🚀 Selected Projects
 
-My academic research focuses on:
+Explore my repositories for hands-on work in:
 
-> 🧠 **The use of Large Language Models in Software Testing and the security risks associated with their use**
+- **UI Test Automation:** Automated testing with Java and Cucumber
+- **API Testing:** REST API testing, response validation, and test data management
+- **API Development Concepts:** Response deserialization and reusable test configurations
+- **Python Projects:** Data analysis and experimentation
 
----
-
-## 📌 Selected Work
-
-This profile includes selected projects and experiments covering:
-
-- ⚙️ Test Automation  
-- 🔌 API & Backend Testing  
-- 🧪 Software Testing Research  
-- 🤖 Machine Learning & AI in Testing  
-- 📊 LLM Evaluation  
+Check my pinned repositories for implementation details, test scenarios, and practical examples.
 
 ---
 
-## 🌐 Connect
+## 🤖 AI, LLMs & Software Testing Research
 
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammedalperenyilmaz/)
-```
+My academic interests focus on the application of Large Language Models in software testing, including their practical use, reliability, and security risks.
+
+My research explores how LLMs can support software testing activities while considering limitations such as inconsistent outputs, hallucinations, and security concerns.
+
+**Research interests:**
+- LLM-assisted Software Testing
+- AI-Based Test Case Generation and Evaluation
+- LLM Reliability and Output Consistency
+- Security Risks in AI-Assisted Testing
+
+---
+
+## ✍️ Technical Writing
+
+I write about software testing concepts, QA practices, and testing techniques, connecting theoretical concepts with practical examples.
+
+📝 **[Read my articles on Medium](https://medium.com/@muhammedalperenyilmaz)**
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** [Muhammed Alperen Yılmaz](https://www.linkedin.com/in/muhammedalperenyilmaz/)
+---
+
+*Always learning, testing, and exploring better ways to build software quality.* 🧪
